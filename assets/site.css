@@ -92,33 +92,13 @@ h1 { font-size: 40px; line-height: 1.08; letter-spacing: -0.02em; font-weight: 8
 .btn[aria-disabled="true"] { background: var(--bd-fill); color: var(--bd-text-secondary); cursor: default; }
 .btn svg { width: 20px; height: 20px; fill: currentColor; }
 
-/* Teléfono con tarjetas dibujadas en HTML, no capturas */
+/* Teléfono con capturas reales de la app */
 .phone-stage { display: flex; justify-content: center; }
-.phone {
-  width: 300px; border-radius: 44px; padding: 12px;
-  background: #111; box-shadow: var(--bd-shadow-raised);
-}
-.screen { background: var(--bd-surface); border-radius: 34px; padding: 18px 14px 16px; display: grid; gap: 12px; }
-.screen .hello { font-size: 13px; color: var(--bd-text-tertiary); margin: 4px 4px 0; }
-.screen .title { font-size: 24px; font-weight: 800; letter-spacing: -0.02em; margin: 0 4px 2px; }
-
-.card { background: #fff; border-radius: var(--bd-radius-lg); padding: var(--bd-space16); box-shadow: var(--bd-shadow-card); }
-.card h3 { font-size: 15px; font-weight: 600; margin: 0 0 var(--bd-space12); display: flex; align-items: center; gap: 8px; }
-.dot { width: 22px; height: 22px; border-radius: 7px; display: inline-block; }
-
-.moods { display: grid; grid-template-columns: repeat(5, 1fr); gap: 6px; }
-.mood { aspect-ratio: 1; border-radius: 12px; background: var(--bd-fill); display: grid; place-items: center; font-size: 11px; color: var(--bd-text-secondary); }
-.mood.on { background: var(--bd-pillar-cuerpo); color: #fff; font-weight: 600; }
-.sub { font-size: 12px; color: var(--bd-text-tertiary); margin: 10px 0 0; }
-
-.glasses { display: grid; grid-template-columns: repeat(8, 1fr); gap: 4px; }
-.glass { height: 26px; border-radius: 6px; border: 1.5px solid #9FD3F5; background: transparent; }
-.glass.full { background: #9FD3F5; }
-
-.habit { display: flex; align-items: center; justify-content: space-between; font-size: 14px; padding: 7px 0; border-top: 1px solid var(--bd-border); }
-.habit:first-of-type { border-top: 0; }
-.check { width: 20px; height: 20px; border-radius: 50%; border: 1.5px solid #CFCFD4; }
-.check.on { background: var(--bd-pillar-cuerpo); border-color: var(--bd-pillar-cuerpo); }
+.phone { width: 100%; max-width: 280px; border-radius: 44px; padding: 10px; background: #111; box-shadow: var(--bd-shadow-raised); }
+.phone img { width: 100%; height: auto; border-radius: 34px; background: #fff; }
+.shots { display: grid; gap: var(--bd-space32); justify-items: center; }
+.shots figure { margin: 0; width: 100%; max-width: 280px; }
+.shots figcaption { text-align: center; font-size: 15px; color: var(--bd-text-secondary); margin-top: var(--bd-space16); }
 
 /* Secciones */
 section { padding: var(--bd-space64) 0; }
@@ -161,6 +141,7 @@ footer p { margin: 0 0 var(--bd-space8); max-width: 44em; }
   h2 { font-size: 38px; }
   .hero { grid-template-columns: 1.1fr 0.9fr; padding-block: var(--bd-space80); }
   .grid.three { grid-template-columns: repeat(3, 1fr); }
+  .shots { grid-template-columns: repeat(3, 1fr); align-items: start; }
   .trio { grid-template-columns: repeat(3, 1fr); }
   .wrap { padding: 0 var(--bd-space32); }
 }
@@ -169,12 +150,8 @@ footer p { margin: 0 0 var(--bd-space8); max-width: 44em; }
   :root { --bd-surface: #1C1C1E; --bd-border: #2C2C2E; --bd-text-primary: #F5F5F7; --bd-text-secondary: #B5B5BA; --bd-text-tertiary: #8E8E93; --bd-blue-10: #001E59; }
   body, .top { background: #000; }
   .eyebrow { color: #9DBEFF; }
-  .card, .feature { background: #1C1C1E; box-shadow: none; }
-  .screen { background: #000; }
+  .feature { background: #1C1C1E; box-shadow: none; }
   .alt { background: #0B0B0C; }
-  .glass { border-color: #4C86A8; }
-  .glass.full { background: #4C86A8; }
-  .check { border-color: #48484A; }
   a { color: #6FA2FF; }
   .btn { color: #fff; }
 }
