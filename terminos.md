@@ -104,4 +104,4 @@ Estos términos se rigen por las leyes de Chile. Si vives en otro país, conserv
 Sebastián Ovalle  
 [buenosdiasapp1@gmail.com](mailto:buenosdiasapp1@gmail.com)
 
-Tus datos personales se tratan según nuestra [Política de privacidad](https://sovalle0.github.io/buenos-dias-legal/privacidad/).
+Tus datos personales se tratan según nuestra [Política de privacidad](https://buenosdiasapp.com/privacidad/).
