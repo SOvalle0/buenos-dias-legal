@@ -69,7 +69,7 @@ a { color: var(--bd-primary); }
 .top { display: flex; align-items: center; justify-content: space-between; padding-block: var(--bd-space16); }
 .brand { display: flex; align-items: center; gap: var(--bd-space12); text-decoration: none; color: var(--bd-text-primary); font-weight: 700; font-size: 17px; white-space: nowrap; }
 .brand img { width: 36px; height: 36px; border-radius: 9px; }
-.top nav a { color: var(--bd-text-secondary); text-decoration: none; font-size: 15px; margin-left: var(--bd-space16); white-space: nowrap; }
+.top nav a { color: var(--bd-text-secondary); text-decoration: none; font-size: 15px; padding: 14px 8px; margin-left: var(--bd-space8); white-space: nowrap; }
 .top nav a.sec { display: none; }
 .top nav a:hover { color: var(--bd-primary); }
 
@@ -119,7 +119,7 @@ h2 { font-size: 30px; line-height: 1.15; letter-spacing: -0.02em; font-weight: 8
 .trio .col h3 { font-size: 24px; margin: 0 0 4px; }
 .trio .col .what { font-size: 14px; opacity: 0.9; margin: 0 0 var(--bd-space16); }
 .trio .col ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
-.trio .col li { background: rgba(255, 255, 255, 0.22); padding: 6px 12px; border-radius: 999px; font-size: 14px; font-weight: 600; }
+.trio .col li { background: rgba(0, 0, 0, 0.2); padding: 6px 12px; border-radius: 999px; font-size: 14px; font-weight: 600; }
 .ser { background: #3D5ABF; }
 .hacer { background: #CC1A45; }
 .tener { background: #007868; }
@@ -129,10 +129,13 @@ h2 { font-size: 30px; line-height: 1.15; letter-spacing: -0.02em; font-weight: 8
 .closing .lead { margin-left: auto; margin-right: auto; }
 .closing .wrap > .note { max-width: 36em; margin-left: auto; margin-right: auto; }
 
+.closing h2.second { margin-top: var(--bd-space64); }
+.link { font-weight: 600; }
+
 /* Pie */
 footer { padding-block: var(--bd-space48) var(--bd-space64); border-top: 1px solid var(--bd-border); font-size: 14px; color: var(--bd-text-tertiary); }
 footer .links { display: flex; flex-wrap: wrap; gap: 8px 20px; margin-bottom: var(--bd-space16); }
-footer a { color: var(--bd-text-secondary); text-decoration: none; }
+footer a { color: var(--bd-text-secondary); text-decoration: none; display: inline-block; padding: 10px 0; }
 footer a:hover { color: var(--bd-primary); }
 footer p { margin: 0 0 var(--bd-space8); max-width: 44em; }
 
