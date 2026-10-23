@@ -79,7 +79,7 @@ La app, su nombre, su diseño y sus contenidos son de Sebastián Ovalle. No pued
 
 Buenos Días es una app nueva y la vamos mejorando. Puede cambiar, fallar o dejar de estar disponible por momentos. Si alguna vez la cerramos, te avisaremos con tiempo para que guardes lo tuyo.
 
-Puedes borrar tu cuenta cuando quieras desde la app, en Perfil, Configuración, Borrar cuenta.
+Puedes borrar tu cuenta cuando quieras desde la app, en Perfil, Configuración, Eliminar cuenta.
 
 Podemos suspender o cerrar tu cuenta si no respetas estos términos.
 
