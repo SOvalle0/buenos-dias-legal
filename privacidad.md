@@ -5,7 +5,7 @@ permalink: /privacidad/
 
 # Política de privacidad de Buenos Días
 
-Versión 1.1. Vigente desde el 23 de octubre de 2026.
+Versión 1.2. Vigente desde el 23 de octubre de 2026.
 
 Buenos Días es una app para conocerte mejor. Para eso necesita guardar cosas que le cuentas sobre ti. Acá te decimos qué guardamos, para qué, con quién lo compartimos y cómo lo borras.
 
@@ -48,11 +48,11 @@ Usamos tus datos por tres razones: porque los necesitamos para darte el servicio
 Para saber qué mejorar, compartimos datos de uso de la app. Empezamos solo después de que aceptas guardar tu día en tu cuenta, y nunca incluyen lo que escribes para ti ni cómo te sientes.
 
 - **En nuestra base** contamos los pasos que das en la app, con su fecha: por ejemplo, cuándo terminaste la bienvenida, cuándo recibiste tu primera lectura del espejo y qué días de tu primera semana la abriste. Solo vemos totales, como "40 personas recibieron su primer espejo".
-- **Con Google Analytics para Firebase** medimos qué pantallas abres, cuánto rato usas la app, qué partes usas (por ejemplo, que guardaste un registro de ánimo, pero nunca qué anotaste), qué permisos diste, el modelo de tu teléfono y tu país o ciudad aproximada, que Google saca de tu dirección de internet. No le mandamos tu nombre, tu correo ni tu cuenta, y no se usa para publicidad. Google guarda estos datos 14 meses y después los borra.
+- **Con Google Analytics para Firebase** medimos qué pantallas abres, cuánto rato usas la app, qué partes usas (por ejemplo, que guardaste un registro de ánimo, pero nunca qué anotaste), qué permisos diste, la semana en que llegaste, si tienes amigos en la app, el modelo de tu teléfono y tu país o ciudad aproximada, que Google saca de tu dirección de internet. No le mandamos tu nombre, tu correo ni tu cuenta, y no se usa para publicidad. Google guarda estos datos 14 meses y después los borra.
 
 Lo hacemos porque tenemos un interés legítimo en saber qué parte de la app funciona y cuál hay que mejorar.
 
-Si no quieres, apaga "Ayúdanos a mejorar" en la sección Privacidad de la app, o escríbenos a [buenosdiasapp1@gmail.com](mailto:buenosdiasapp1@gmail.com). Dejamos de contarte en todos tus teléfonos con esa cuenta.
+Si no quieres, apaga "Ayúdanos a mejorar" en la sección Privacidad de la app, o escríbenos a [buenosdiasapp1@gmail.com](mailto:buenosdiasapp1@gmail.com). Dejamos de contarte en todos tus teléfonos con esa cuenta. Solo guardamos que lo pediste, para respetarlo, y vemos cuántas personas lo han pedido en total.
 
 ## 3. Datos sensibles
 
@@ -66,7 +66,7 @@ Tu ánimo, tus emociones, tus notas y tus hábitos dicen mucho de ti. La ley los
 
 Buenos Días usa Gemini, la inteligencia artificial de Google, para escribir las preguntas de reflexión y la lectura de tu perfil.
 
-Para eso le enviamos un resumen: tu tendencia de los últimos días, cómo te has sentido, comparaciones de tus hábitos, algunas de tus notas recientes, tu perfil de autoconocimiento, lo que respondiste al empezar a usar la app y qué tan cargado está tu día. De tu calendario solo enviamos cuántas reuniones tienes y a qué hora es la primera, nunca sus nombres.
+Para eso le enviamos un resumen: tu tendencia de los últimos días, cómo te has sentido, comparaciones de tu sueño y tus hábitos, también los que trae Salud, algunas de tus notas recientes, tu perfil de autoconocimiento, lo que respondiste al empezar a usar la app y qué tan cargado está tu día. De tu calendario solo enviamos cuántas reuniones tienes y a qué hora es la primera, nunca sus nombres.
 
 - Te pedimos permiso antes de enviar nada, y puedes retirarlo cuando quieras en la sección Privacidad de la app.
 - Si dices que no, la app sigue funcionando sin esas preguntas.
@@ -79,7 +79,7 @@ La app te pide cada permiso por separado y funciona aunque digas que no.
 
 | Permiso | Qué hacemos con él |
 |---|---|
-| Salud | Leemos tu sueño, tus pasos, tu ejercicio, tu energía activa y tus minutos de atención plena. Esos datos se quedan en tu teléfono. De ahí salen solo tus puntos del día y, si participas en un reto, si cumpliste la meta. Si nos das ese permiso, también guardamos en Salud el ánimo, el sueño y el agua que anotas, y tus meditaciones guiadas, para que no se pierdan si cambias de teléfono. No usamos nada de Salud para publicidad |
+| Salud | Leemos tu sueño, tus pasos, tu ejercicio, tu energía activa y tus minutos de atención plena. Esos datos se quedan en tu teléfono. De ahí salen solo tus puntos del día, si cumpliste la meta de un reto en que participas y, si aceptas la inteligencia artificial, un resumen de tu sueño y tus hábitos (sección 4). Si nos das ese permiso, también guardamos en Salud el ánimo, el sueño y el agua que anotas, y tus meditaciones guiadas, para que no se pierdan si cambias de teléfono. No usamos nada de Salud para publicidad |
 | Calendario | Vemos cuántas reuniones tienes hoy. No guardamos los detalles de tus eventos |
 | Ubicación | La usamos para mostrarte el clima y para que puedas agregar un lugar a tu diario. Para el clima se la mandamos al servicio del clima de Apple. No la guardamos |
 | Cámara, micrófono y fotos | Solo para las fotos que sacas o eliges y las notas de voz que grabas |
@@ -112,6 +112,8 @@ Lo que está solo en tu teléfono se borra cuando eliminas la app. La copia en t
 Lo que la app guardó en Salud queda en Salud, que es tuya: lo borras desde la app Salud.
 
 Lo que mide Google Analytics se borra a los 14 meses. Como no lleva tu cuenta, al eliminarla no lo podemos buscar para borrarlo antes; sí borramos lo que quedó en tu teléfono.
+
+Si reportaste a alguien, el reporte queda para revisarlo, sin tu cuenta.
 
 ## 9. Tus derechos
 
