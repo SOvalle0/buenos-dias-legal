@@ -1,5 +1,6 @@
 ---
 title: Ayuda y contacto
+permalink: /ayuda/
 ---
 
 # Buenos Días
