@@ -17,7 +17,7 @@ Buenos Días no es un servicio de emergencia. Si estás en crisis o piensas en h
 
 ## Documentos
 
-- [Política de privacidad](privacidad/)
-- [Términos de servicio](terminos/)
+- [Política de privacidad](../privacidad/)
+- [Términos de servicio](../terminos/)
 
 Responsable: Sebastián Ovalle, Chile.
