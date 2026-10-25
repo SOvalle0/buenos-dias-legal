@@ -5,7 +5,7 @@ permalink: /privacidad/
 
 # Política de privacidad de Buenos Días
 
-Versión 1.2. Vigente desde el 23 de octubre de 2026.
+Versión 1.3. Vigente desde el 25 de octubre de 2026.
 
 Buenos Días es una app para conocerte mejor. Para eso necesita guardar cosas que le cuentas sobre ti. Acá te decimos qué guardamos, para qué, con quién lo compartimos y cómo lo borras.
 
@@ -53,6 +53,14 @@ Para saber qué mejorar, compartimos datos de uso de la app. Empezamos solo desp
 Lo hacemos porque tenemos un interés legítimo en saber qué parte de la app funciona y cuál hay que mejorar.
 
 Si no quieres, apaga "Ayúdanos a mejorar" en la sección Privacidad de la app, o escríbenos a [buenosdiasapp1@gmail.com](mailto:buenosdiasapp1@gmail.com). Dejamos de contarte en todos tus teléfonos con esa cuenta. Solo guardamos que lo pediste, para respetarlo, y vemos cuántas personas lo han pedido en total.
+
+### Si te anotas en la lista
+
+Si te anotas en la lista de Buenos Días para probar la app antes o para que te avisemos cuando salga, guardamos tu nombre, tu correo, tu teléfono y la fecha en que te anotaste. Solo los usamos para escribirte por correo o por WhatsApp sobre la prueba y el lanzamiento de Buenos Días. Los guardamos en un formulario de Google de nuestra cuenta y los borramos 6 meses después de que Buenos Días salga en la App Store, o antes si nos lo pides.
+
+Cada correo dice cómo darte de baja. Por WhatsApp, basta con responder "baja". Si lo pides, te sacamos de la lista y no te escribimos más.
+
+Si quedas en la prueba, te invitamos a una comunidad de WhatsApp para los avisos. Entrar es opcional, y ahí otras personas de la comunidad pueden ver tu número. WhatsApp trata esos datos según su propia política.
 
 ## 3. Datos sensibles
 
