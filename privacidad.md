@@ -5,7 +5,7 @@ permalink: /privacidad/
 
 # Política de privacidad de Buenos Días
 
-Versión 1.4. Vigente desde el 25 de octubre de 2026.
+Versión 1.5. Vigente desde el 25 de octubre de 2026.
 
 Buenos Días es una app para conocerte mejor. Para eso necesita guardar cosas que le cuentas sobre ti. Acá te decimos qué guardamos, para qué, con quién lo compartimos y cómo lo borras.
 
@@ -47,8 +47,8 @@ Usamos tus datos por tres razones: porque los necesitamos para darte el servicio
 
 Para saber qué mejorar, compartimos datos de uso de la app. Empezamos solo después de que aceptas guardar tu día en tu cuenta, y nunca incluyen lo que escribes para ti ni cómo te sientes.
 
-- **En nuestra base** contamos los pasos que das en la app, con su fecha: por ejemplo, cuándo terminaste la bienvenida, cuándo recibiste tu primera lectura del espejo y qué días de tu primera semana la abriste. Solo vemos totales, como "40 personas recibieron su primer espejo".
-- **Con Google Analytics para Firebase** medimos qué pantallas abres, cuánto rato usas la app, qué partes usas (por ejemplo, que guardaste un registro de ánimo, pero nunca qué anotaste), qué permisos diste, la semana en que llegaste, si tienes amigos en la app, el modelo de tu teléfono y tu país o ciudad aproximada, que Google saca de tu dirección de internet. No le mandamos tu nombre, tu correo ni tu cuenta, y no se usa para publicidad. Google guarda estos datos 14 meses y después los borra.
+- **En nuestra base** contamos los pasos que das en la app, con su fecha: por ejemplo, cuándo terminaste la bienvenida, cuándo recibiste tu primera lectura del espejo y qué días de tu primera semana la abriste. Si nos cuentas cómo conociste la app, también lo guardamos. Solo vemos totales, como "40 personas recibieron su primer espejo".
+- **Con Google Analytics para Firebase** medimos qué pantallas abres, cuánto rato usas la app, qué partes usas (por ejemplo, que guardaste un registro de ánimo, pero nunca qué anotaste), qué permisos diste, la semana en que llegaste, cómo conociste la app si nos lo contaste, si tienes amigos en la app, el modelo de tu teléfono y tu país o ciudad aproximada, que Google saca de tu dirección de internet. No le mandamos tu nombre, tu correo ni tu cuenta, y no se usa para publicidad. Google guarda estos datos 14 meses y después los borra.
 
 Lo hacemos porque tenemos un interés legítimo en saber qué parte de la app funciona y cuál hay que mejorar.
 
@@ -59,6 +59,10 @@ Si no quieres, apaga "Ayúdanos a mejorar" en la sección Privacidad de la app, 
 Si te anotas en la lista de Buenos Días para probar la app antes o para que te avisemos cuando salga, guardamos tu nombre, tu correo, tu teléfono y la fecha en que te anotaste. Solo los usamos para escribirte por correo o por WhatsApp sobre la prueba y el lanzamiento de Buenos Días. Los guardamos en un formulario de Google de nuestra cuenta y los borramos 6 meses después de que Buenos Días salga en la App Store, o antes si nos lo pides.
 
 Cada correo dice cómo darte de baja. Por WhatsApp, basta con responder "baja". Si lo pides, te sacamos de la lista y no te escribimos más.
+
+### La encuesta de la prueba
+
+Si estás en la prueba, a los 14 días te mandamos una encuesta corta en un formulario de Google. No pide tu nombre ni tu correo, salvo que quieras que te escribamos para conversar. La lee solo el equipo de Buenos Días, la guardamos en nuestra cuenta de Google y la borramos 3 meses después de que termine la prueba.
 
 ## 3. Datos sensibles
 
