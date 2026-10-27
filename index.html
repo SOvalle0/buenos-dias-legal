@@ -38,6 +38,8 @@
       <h1>Conócete un poco mejor cada día.</h1>
       <p class="lead">Buenos Días es una app donde registras cómo estás y qué haces. Con el tiempo te muestra patrones sobre ti: qué días te sientes mejor, qué hábitos se repiten, en qué áreas de tu vida estás poniendo energía.</p>
       <!-- Para activar la descarga: pon el enlace del App Store en STORE_URL (al final de este archivo). -->
+      <a class="btn beta" href="#" hidden>Quiero probarla</a>
+      <p class="note beta-note" hidden>Anótate en la lista: te escribimos solo sobre la prueba y el lanzamiento.</p>
       <a class="btn cta" href="#" aria-disabled="true">
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16.37 12.6c-.02-2.2 1.8-3.26 1.88-3.31-1.02-1.5-2.62-1.7-3.19-1.73-1.36-.14-2.65.8-3.34.8-.69 0-1.75-.78-2.88-.76-1.48.02-2.85.86-3.61 2.19-1.54 2.67-.39 6.62 1.1 8.79.73 1.06 1.6 2.25 2.74 2.21 1.1-.04 1.52-.71 2.85-.71 1.33 0 1.71.71 2.88.69 1.19-.02 1.94-1.08 2.66-2.14.84-1.23 1.19-2.42 1.2-2.48-.03-.01-2.3-.88-2.29-3.55zM14.2 6.1c.6-.73 1.01-1.75.9-2.76-.87.04-1.92.58-2.54 1.31-.56.65-1.05 1.69-.92 2.68.97.08 1.96-.49 2.56-1.23z"/></svg>
         <span class="cta-text">Muy pronto en el App Store</span>
@@ -129,6 +131,7 @@
     <div class="wrap">
       <h2>Descárgala en tu iPhone</h2>
       <p class="lead">Gratis. Solo para iPhone y para mayores de 18 años.</p>
+      <a class="btn beta" href="#" hidden>Quiero probarla</a>
       <a class="btn cta" href="#" aria-disabled="true">
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16.37 12.6c-.02-2.2 1.8-3.26 1.88-3.31-1.02-1.5-2.62-1.7-3.19-1.73-1.36-.14-2.65.8-3.34.8-.69 0-1.75-.78-2.88-.76-1.48.02-2.85.86-3.61 2.19-1.54 2.67-.39 6.62 1.1 8.79.73 1.06 1.6 2.25 2.74 2.21 1.1-.04 1.52-.71 2.85-.71 1.33 0 1.71.71 2.88.69 1.19-.02 1.94-1.08 2.66-2.14.84-1.23 1.19-2.42 1.2-2.48-.03-.01-2.3-.88-2.29-3.55zM14.2 6.1c.6-.73 1.01-1.75.9-2.76-.87.04-1.92.58-2.54 1.31-.56.65-1.05 1.69-.92 2.68.97.08 1.96-.49 2.56-1.23z"/></svg>
         <span class="cta-text">Muy pronto en el App Store</span>
@@ -157,6 +160,14 @@
   // Cuando exista la ficha de la tienda, pega aquí su enlace (por ejemplo https://apps.apple.com/cl/app/...).
   // Con el enlace puesto, los botones se activan solos. Sin enlace, quedan como «Muy pronto».
   var STORE_URL = "";
+  // Enlace del formulario de la lista (Google Forms, cuenta de la app). Vacío: el botón «Quiero probarla» no se muestra.
+  var FORM_URL = "https://forms.gle/ZFS9RxxzB7ULg1hC6";
+  if (FORM_URL) {
+    document.querySelectorAll(".beta, .beta-note").forEach(function (el) {
+      if (el.tagName === "A") { el.href = FORM_URL; el.rel = "noopener"; }
+      el.hidden = false;
+    });
+  }
   document.querySelectorAll(".cta").forEach(function (cta) {
     if (STORE_URL) {
       cta.href = STORE_URL;

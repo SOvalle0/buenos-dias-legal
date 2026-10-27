@@ -89,6 +89,9 @@ h1 { font-size: 40px; line-height: 1.08; letter-spacing: -0.02em; font-weight: 8
   font: 600 17px var(--font); text-decoration: none; cursor: pointer;
 }
 .btn:hover { background: var(--bd-blue-80); }
+.btn[hidden], .beta-note[hidden] { display: none; }
+.btn.beta { margin: 0 var(--bd-space12) var(--bd-space12) 0; }
+.beta-note { margin-bottom: var(--bd-space24); }
 .btn[aria-disabled="true"] { background: var(--bd-fill); color: var(--bd-text-secondary); cursor: default; }
 .btn svg { width: 20px; height: 20px; fill: currentColor; }
 
